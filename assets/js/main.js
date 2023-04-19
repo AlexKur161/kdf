@@ -1,5 +1,5 @@
-import tabs from 'tabs.js'
-import hamburger from 'hamburger.js'
+import tabs from '/kdf/assets/js/tabs.js'
+import hamburger from '/kdf/assets/js/hamburger.js'
 tabs()
 hamburger()
 const swiper = new Swiper('.swiper', {
