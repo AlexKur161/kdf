@@ -1,5 +1,5 @@
-@import "mont.css";
-@import "normalize.css";
+@import "/kdf/assets/css/mont.css";
+@import "/kdf/assets/css/normalize.css";
 *{
     box-sizing: border-box;
     margin: 0;
