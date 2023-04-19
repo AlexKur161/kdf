@@ -1,5 +1,5 @@
-import tabs from 'assets/js/tabs.js'
-import hamburger from 'assets/js/hamburger.js'
+import tabs from 'tabs.js'
+import hamburger from 'hamburger.js'
 tabs()
 hamburger()
 const swiper = new Swiper('.swiper', {
