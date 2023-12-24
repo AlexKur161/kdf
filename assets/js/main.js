@@ -1,8 +1,8 @@
-import tabs from 'assets/js/tabs.js'
-import hamburger from 'assets/js/hamburger.js'
-import SendForm from 'assets/js/sendform.js'
-import Popup from 'assets/js/popup.js'
-import scroll from 'assets/js/scroll.js'
+import tabs from '../js/tabs.js'
+import hamburger from '../js/hamburger.js'
+import SendForm from '../js/sendform.js'
+import Popup from '../js/popup.js'
+import scroll from '../js/scroll.js'
 tabs()
 hamburger()
 scroll()

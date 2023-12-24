@@ -2100,7 +2100,7 @@ padding: 30px;
   content: "";
   display: block;
   position: absolute;
-  background-image: url('assets/img/icon/botarrow.svg');
+  background-image: url('../img/icon/botarrow.svg');
   width: 18px;
   height: 18px;
   background-size: auto;
