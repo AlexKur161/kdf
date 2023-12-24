@@ -1617,7 +1617,7 @@ margin-bottom: 20px;
 .checkbox-custom:checked + .checkbox-custom-label:before {
   content: "";
   background: #F2994A;
-  background-image: url('/assets/img/icon/check.svg');
+  background-image: url('assets/img/icon/check.svg');
   background-repeat: no-repeat;
   background-position: center;
   font-family: 'FontAwesome';
@@ -2100,7 +2100,7 @@ padding: 30px;
   content: "";
   display: block;
   position: absolute;
-  background-image: url('/assets/img/icon/botarrow.svg');
+  background-image: url('assets/img/icon/botarrow.svg');
   width: 18px;
   height: 18px;
   background-size: auto;
@@ -2195,7 +2195,7 @@ padding: 30px;
   display: none;
 }
 .success_body{
-  background-image: url('/assets/img/popup/susbg.png');
+  background-image: url('assets/img/popup/susbg.png');
   background-repeat: no-repeat;
   min-width: 905px;
   background-position: bottom right 154px;
